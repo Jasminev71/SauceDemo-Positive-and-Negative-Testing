@@ -8,3 +8,4 @@ describe('Login to SauceDemo', () => {
     await LoginPage.login('standard_user', 'secret_sauce');
   });
 });
+
